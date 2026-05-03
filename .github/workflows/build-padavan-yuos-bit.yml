@@ -1,5 +1,5 @@
 #JDC-1
-name: Build yuos-bit K2P
+name: Build yuos-bit B70
 
 on: 
   release:
